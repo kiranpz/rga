@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Arun
+Build-Jdk: 9.0.4
+Implementation-Title: Spring Boot Quick Start - Course API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.codeatomic.springbootquickstart
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootQuickStart
+Created-By: Maven Integration for Eclipse
+
